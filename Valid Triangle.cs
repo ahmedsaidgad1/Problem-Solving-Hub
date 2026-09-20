@@ -9,9 +9,7 @@ class Program
         int b = int.Parse(inputs[1]);
         int c = int.Parse(inputs[2]);
 
-        int sum = a + b + c;
-
-        if (sum == 180)
+        if (a > 0 && b > 0 && c > 0 && (a + b + c == 180))
         {
             Console.WriteLine("YES");
         }
@@ -19,7 +17,6 @@ class Program
         {
             Console.WriteLine("NO");
         }
-
 
     }
 }
