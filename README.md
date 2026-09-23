@@ -1,108 +1,71 @@
 # 🧠 Problem Solving Hub
 
-Welcome to my **Problem Solving Hub** 🚀
+A growing collection of my programming and problem-solving practice.
 
-This repository contains my solutions to programming and problem-solving challenges from different online judges and platforms.
+This repository documents my journey in **Data Structures, Algorithms, Competitive Programming, and Problem Solving**, mainly using C++.
 
-The main goal of this repository is to **improve my problem-solving skills, strengthen my understanding of algorithms and data structures, and track my progress over time**.
+## 🎯 Purpose
 
----
+I use this repository to:
+
+- Improve problem-solving skills
+- Practice algorithms and data structures
+- Understand different problem-solving patterns
+- Track my progress over time
+- Write cleaner and more efficient solutions
 
 ## 📚 Platforms
 
-* [Codeforces](https://codeforces.com/)
-* [LeetCode](https://leetcode.com/)
-
-More platforms may be added as I continue learning and solving problems.
-
----
+- [Codeforces](https://codeforces.com/)
+- [LeetCode](https://leetcode.com/)
 
 ## 💻 Languages
 
-* **C++**
-* **C#**
-
----
+- C++
+- C#
 
 ## 🧩 Topics
 
-The problems in this repository cover different topics, including:
+- Implementation
+- Mathematics
+- Arrays
+- Strings
+- Sorting
+- Searching
+- Data Structures
+- Algorithms
+- Greedy
+- Two Pointers
+- Binary Search
+- And more...
 
-* Implementation
-* Mathematics
-* Arrays
-* Strings
-* Sorting
-* Searching
-* Data Structures
-* Algorithms
-* Greedy
-* Two Pointers
-* Binary Search
-* And more...
+## 📂 Structure
 
----
-
-## 📈 Progress
-
-I'm continuously adding new problems and improving my solutions.
-
-| Platform   | Problems       |
-| ---------- | -------------- |
-| Codeforces | 🔄 In Progress |
-| LeetCode   | 🔄 In Progress |
-
-> This repository is a work in progress and will grow as I solve more problems.
-
----
-
-## 🎯 Goals
-
-* Improve problem-solving skills
-* Build a strong foundation in algorithms and data structures
-* Practice competitive programming
-* Learn different problem-solving techniques
-* Write cleaner and more efficient code
-* Track my programming journey
-
----
-
-## 📂 Repository Structure
-
-The repository is organized around the problems and platforms I practice on.
+The repository will gradually move toward a platform/topic-based structure:
 
 ```text
 Problem-Solving-Hub/
 │
 ├── Codeforces/
-│
 ├── LeetCode/
-│
+├── Data-Structures/
 ├── Algorithms/
-│
 └── README.md
 ```
 
-The structure may evolve as the number of solved problems grows.
+The structure may evolve as the repository grows.
 
----
+## 📈 Progress
 
-## 🚀 Why This Repository?
+This is a work in progress. New problems and improved solutions are added continuously.
 
-I created this repository to document my journey in **competitive programming and problem solving**.
+## 🔗 Related Projects
 
-Every solved problem is an opportunity to learn something new, understand a different algorithm, or find a better way to approach a problem.
-
-> **Solve. Learn. Improve. Repeat. 🔥**
-
----
+- [OOP_Projects](https://github.com/ahmedsaidgad1/OOP_Projects) — C++ OOP projects and practice.
+- [Problem_Solving_Level_3](https://github.com/ahmedsaidgad1/Problem_Solving_Level_3) — Data structures implemented from scratch in C++.
 
 ## 📌 Note
 
-This repository is primarily for **learning, practice, and documenting my progress**.
+This repository is primarily for learning, practice, and documenting progress. Solutions may be refactored as my understanding improves.
 
-The solutions may be improved or refactored as my understanding and programming skills develop.
-
----
-
-⭐ Feel free to explore the repository and follow the journey!
+> **Solve. Learn. Improve. Repeat. 🔥**
