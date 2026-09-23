@@ -18,21 +18,22 @@ bool Is_Vowel(char ch)
     return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
 }
 
-void count_vowels(const string &str)
+void Print_Vowels(string str)
 {
-    int count = 0;
+    cout<<"Vowels in the string: ";
     for(char ch : str)
     {
         if(Is_Vowel(ch))
-            count++;
+        {
+            cout<<ch<<" ";
+        }
     }
-    cout<<"Number of vowels in the string: "<<count<<endl;
+    cout<<endl;
 }
-
 
 int main()
 {
     string str = Read_string();
-    count_vowels(str);
+    Print_Vowels(str);
     return 0;
 }
