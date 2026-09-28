@@ -8,11 +8,11 @@ class Program
         {
             if (IsPrime(n))
             {
-                Console.WriteLine("YES");
+                Console.WriteLine("Prime");
             }
             else
             {
-                Console.WriteLine("NO");
+                Console.WriteLine("Not Prime");
             }
         }
     }
